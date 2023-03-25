@@ -3,7 +3,7 @@ public class Main {
     // using this()
     public Main() {
 
-        this("samrat");   // invokes another class of same constructor of same class
+        this("samrat");   // invokes another constructor of same class
         System.out.print(" karki");
 
     }
